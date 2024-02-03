@@ -1,0 +1,27 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.myprofile {
+    /* width: 100%; */
+    /* background-color: green; */
+
+    display: flex;
+    justify-content: center;
+    letter-spacing: 15px;
+    margin-top: 10px;
+    border-bottom: 2px solid blue;
+   
+}
+.m{color: rgb(137, 195, 231);}
+.p{color: rgb(237, 159, 229);}
+
+.second-container{
+    text-align: center;
+}
+
+    
